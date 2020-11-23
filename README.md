@@ -16,8 +16,10 @@ The implementation of this project can be summarized as follow:
 - Image augmentation with CNN outperforms Transfer learning with the validation accuracy of 78.14% and 70.26%, respectively. Moreover, CNN model improves the both training loss and validation loss significantly.
 
 # **Reference**
-Kaggle dataset: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
-Dataverse Harvard: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
-Helpful links:
-- Teaching Machines to Detect Skin Cancer: https://medium.com/analytics-vidhya/teaching-machines-to-detect-skin-cancer-bd165566f0fe
-- Dermatology MNIST: Loading and Processing: kaggle.com/kmader/dermatology-mnist-loading-and-processing
+- Kaggle dataset: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
+
+- Dataverse Harvard: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
+
+- Helpful links:
+    + Teaching Machines to Detect Skin Cancer: https://medium.com/analytics-vidhya/teaching-machines-to-detect-skin-cancer-bd165566f0fe
+    + Dermatology MNIST: Loading and Processing: kaggle.com/kmader/dermatology-mnist-loading-and-processing
