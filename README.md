@@ -22,4 +22,4 @@ The implementation of this project can be summarized as follow:
 
 - Helpful links:
     + Teaching Machines to Detect Skin Cancer: https://medium.com/analytics-vidhya/teaching-machines-to-detect-skin-cancer-bd165566f0fe
-    + Dermatology MNIST: Loading and Processing: kaggle.com/kmader/dermatology-mnist-loading-and-processing
+    + Dermatology MNIST: Loading and Processing: https://kaggle.com/kmader/dermatology-mnist-loading-and-processing
